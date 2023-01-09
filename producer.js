@@ -12,4 +12,4 @@ setInterval( () => {
             console.log('Payload sent successfully')
         }
     })
-}, 10000)
+}, 1000)
